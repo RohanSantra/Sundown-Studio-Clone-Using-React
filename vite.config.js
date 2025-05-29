@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/sundown-studio-clone-using-react/',
+  base: '/Sundown-Studio-Clone-Using-React/',
   plugins: [react()],
 })
