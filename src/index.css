@@ -453,13 +453,12 @@ nav .overlay {
 #fixed-image {
     height: 30vw;
     width: 24vw;
-    /* background-color: red; */
     border-radius: 15px;
     position: fixed;
     z-index: 99;
     left: 50%;
     top: 25%;
-    display: none;
+    display: flex;
     background-size: cover;
     background-position: center;
     pointer-events: none;
